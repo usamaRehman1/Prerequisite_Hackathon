@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "535716928474",
+    "firebase_url": "https://expo-auth-1cb2f-default-rtdb.firebaseio.com",
+    "project_id": "expo-auth-1cb2f",
+    "storage_bucket": "expo-auth-1cb2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535716928474:android:2f93524ec967585f83fee3",
+        "android_client_info": {
+          "package_name": "com.bloodbankapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "535716928474-jhdholpgq1nue2cciijva65d357sb9ah.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3uk4NkjZdqQV3_pcJB70VyuhPG0y3vOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "535716928474-jhdholpgq1nue2cciijva65d357sb9ah.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
